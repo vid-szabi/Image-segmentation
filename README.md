@@ -1,7 +1,7 @@
 # Image Segmentation Using Maximum Flow / Minimum Cut
 
 ## Overview
-This project implements an image segmentation algorithm using the Maximum Flow / Minimum Cut algorithm. The algorithm distinguishes the foreground and background in a given 10x10 black-and-white image.
+This C++ project implements an image segmentation algorithm using the Maximum Flow / Minimum Cut algorithm. The algorithm distinguishes the foreground and background in a given 10x10 black-and-white image.
 
 ## Example Results
 
