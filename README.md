@@ -5,19 +5,19 @@ This project implements an image segmentation algorithm using the Maximum Flow /
 
 ## Example Results
 
-### test1
+### test and result
 | <img src="test.png" width="100" /> | <img src="result.png" width="100" /> |
 |-----------------------------------|-------------------------------------|
 
-### test2
+### test2 and result2
 | <img src="test2.png" width="100" /> | <img src="result2.png" width="100" /> |
 |-----------------------------------|-------------------------------------|
 
-### test3
+### test3 and result3
 | <img src="test3.png" width="100" /> | <img src="result3.png" width="100" /> |
 |-----------------------------------|-------------------------------------|
 
-### test4
+### test4 and result4
 | <img src="test4.png" width="100" /> | <img src="result4.png" width="100" /> |
 |-----------------------------------|-------------------------------------|
 
