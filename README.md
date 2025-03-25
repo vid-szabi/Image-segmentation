@@ -6,20 +6,20 @@ This project implements an image segmentation algorithm using the Maximum Flow /
 ## Example Results
 
 ### test1
-| ![Segmented Image Test1](test.png | width=200) | ![Segmented Image Result1](result.png | width=200) |
-|-----------------------------------|---------------------------------------|
+| <img src="test.png" width="100" /> | <img src="result.png" width="100" /> |
+|-----------------------------------|-------------------------------------|
 
 ### test2
-| ![Segmented Image Test2](test2.png | width=200) | ![Segmented Image Result2](result2.png | width=200) |
-|-----------------------------------|---------------------------------------|
+| <img src="test2.png" width="100" /> | <img src="result2.png" width="100" /> |
+|-----------------------------------|-------------------------------------|
 
 ### test3
-| ![Segmented Image Test3](test3.png | width=200) | ![Segmented Image Result3](result3.png | width=200) |
-|-----------------------------------|---------------------------------------|
+| <img src="test3.png" width="100" /> | <img src="result3.png" width="100" /> |
+|-----------------------------------|-------------------------------------|
 
 ### test4
-| ![Segmented Image Test4](test4.png | width=200) | ![Segmented Image Result4](result4.png | width=200) |
-|-----------------------------------|---------------------------------------|
+| <img src="test4.png" width="100" /> | <img src="result4.png" width="100" /> |
+|-----------------------------------|-------------------------------------|
 
 ## Input
 - A 10x10 `.png` file named `test.png` containing a black-and-white image.
