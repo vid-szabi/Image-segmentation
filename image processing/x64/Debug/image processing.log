@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Szabolcs\Desktop\Image-segmentation\main.cpp(22,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Szabolcs\Desktop\Image-segmentation\main.cpp(32,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  image processing.vcxproj -> C:\Users\Szabolcs\Desktop\Image-segmentation\x64\Debug\image processing.exe
